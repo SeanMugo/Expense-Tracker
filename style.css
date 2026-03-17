@@ -1,0 +1,13 @@
+
+body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+.expense-item {
+    transition: background 0.15s;
+}
+.expense-item:hover {
+    background-color: #f9fafb;
+}
+.delete-btn:hover {
+    background-color: #fee2e2;
+}
